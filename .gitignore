@@ -1,0 +1,68 @@
+# Node.js
+node_modules/
+dist/
+build/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+pnpm-lock.yaml
+
+# VS Code
+.vscode/
+.history/
+
+# Operating System
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+Icon?
+
+# Python / Jupyter / ML (if any)
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+*.pkl
+*.h5
+*.pt
+*.tflite
+.env
+*.env
+
+# Compiled / binary
+*.out
+*.exe
+*.dll
+*.so
+*.a
+*.o
+
+# Archives / Bundles
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+
+# Media files (optional if you're training)
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.mp4
+*.avi
+*.mov
+*.webm
+*.mkv
+
+# Office / Docs (optional)
+*.pdf
+*.docx
+*.pptx
+*.xls*
+
+# Windows / OneDrive
+*.lnk
+*.tmp
+~$*
